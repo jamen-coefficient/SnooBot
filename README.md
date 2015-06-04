@@ -1,4 +1,4 @@
-This is a dump from [nobe4/snoo-bot](https://api.blockspring.com/nobe4/snoo-bot).
+Versions : [Github](https://github.com/nobe4/SnooBot/)/[Blockspring](https://api.blockspring.com/nobe4/snoo-bot).
 
 # How To Use This [Slack](https://slack.com/) Bot
 
