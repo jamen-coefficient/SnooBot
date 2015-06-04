@@ -1,6 +1,6 @@
 This is a dump from [nobe4/snoo-bot](https://api.blockspring.com/nobe4/snoo-bot).
 
-# How To Use This Bot
+# How To Use This [Slack](https://slack.com/) Bot
 
 1. Clone the Bot
 2. Set up a new outgoing webhook in Slack
