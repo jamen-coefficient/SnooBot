@@ -22,7 +22,7 @@ If the matched pattern is `r/` :
 
 `r/thisdoesntexists`
 
-![screen shot 2015-06-04 at 09 30 00](https://cloud.githubusercontent.com/assets/2452791/7979064/462479d4-0a9c-11e5-9e26-1b29ff413327.png
+![screen shot 2015-06-04 at 09 30 00](https://cloud.githubusercontent.com/assets/2452791/7979064/462479d4-0a9c-11e5-9e26-1b29ff413327.png)
 
 # Improvements :
 If you have an idea or find a bug, feel free to tell us about on [the issue page](https://github.com/nobe4/SnooBot/issues)
